@@ -1,0 +1,7 @@
+# Information Security Basics
+
+Information security is a critical topic that can get very complex if you dive into it. This document describes some very basic tips and tools to help you start to increase your security online:
+- Use a password vault. You will have to access many services that require passwords in your professional and private life. Having a vault is essential to manage these access keys. Modern browsers offer good password management capabilities, but an app like [LastPass](https://www.lastpass.com/) might be worth considering if you need something extra.
+- Have a very strong master password for your password management system. This password will hold the key to every other service, so it should be very hard. If you feel anxious about the possibility of forgetting this one, a suboptimal solution might be having a physical version of it stored in a safe. 
+- Use a different password for every new account or service you create. The password management system will save all the passwords so that you can remember them all. If your browser suggests a secure password, take it. If you use the same password everywhere, as soon as an attack compromises one of those services, all your accounts become vulnerable. 
+- Use [multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) everywhere you can. That way, you may be able to secure your account even when your password is compromised.
